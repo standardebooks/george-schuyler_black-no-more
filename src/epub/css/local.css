@@ -50,21 +50,6 @@ section[epub|type~="dedication"] > *{
 [epub|type~="z3998:hymn"] p > span + br{
 	display: none;
 }
-
-[epub|type~="z3998:song"] p + p,
-[epub|type~="z3998:hymn"] p + p{
-	margin-top: 1em;
-}
-
-p span.i1{
-	padding-left: 2em;
-	text-indent: -1em;
-}
-
-p span.i2{
-	padding-left: 3em;
-	text-indent: -1em;
-}
 /* End verse */
 
 /* Begin letters */
@@ -78,6 +63,10 @@ p[epub|type~="z3998:salutation"]{
 /* End letters */
 
 .telegram{
+	font-variant: all-small-caps;
+}
+
+abbr[epub|type~="se:era"]{
 	font-variant: all-small-caps;
 }
 
@@ -97,7 +86,7 @@ footer{
 }
 
 #preface footer p:last-of-type{
-	text-align: left;
+	text-align: initial;
 	text-indent: 0;
 }
 
@@ -110,6 +99,13 @@ footer{
 #chapter-6 blockquote,
 #chapter-12 blockquote:first-of-type{
 	text-align: center;
+}
+
+#chapter-1 blockquote p,
+#chapter-4 blockquote p,
+#chapter-6 blockquote p,
+#chapter-12 blockquote:first-of-type p{
+	text-indent: 0;
 }
 
 #chapter-4 blockquote b{
