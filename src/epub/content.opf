@@ -30,10 +30,10 @@
 		<dc:title id="title">Black No More</dc:title>
 		<meta property="file-as" refines="#title">Black No More</meta>
 		<meta property="title-type" refines="#title">main</meta>
-		<dc:title id="subtitle">Being an Account of the Strange and Wonderful Workings of Science in the Land of the Free, AD 1933⁠–⁠1940</dc:title>
-		<meta property="file-as" refines="#subtitle">Being an Account of the Strange and Wonderful Workings of Science in the Land of the Free, AD 1933⁠–⁠1940</meta>
+		<dc:title id="subtitle">Being an Account of the Strange and Wonderful Workings of Science in the Land of the Free, AD 1933–1940</dc:title>
+		<meta property="file-as" refines="#subtitle">Being an Account of the Strange and Wonderful Workings of Science in the Land of the Free, AD 1933–1940</meta>
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
-		<dc:title id="fulltitle">Black No More: Being an Account of the Strange and Wonderful Workings of Science in the Land of the Free, AD 1933⁠–⁠1940</dc:title>
+		<dc:title id="fulltitle">Black No More: Being an Account of the Strange and Wonderful Workings of Science in the Land of the Free, AD 1933–1940</dc:title>
 		<meta property="file-as" refines="#fulltitle">Black No More</meta>
 		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">Science fiction</dc:subject>
