@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/george-schuyler/black-no-more</dc:identifier>
 		<dc:date>2026-03-14T18:17:03Z</dc:date>
@@ -60,11 +60,11 @@
 		<meta property="term" refines="#subject-7">Unknown</meta>
 		<meta property="schema:genre">Satire</meta>
 		<meta property="schema:genre">Science Fiction</meta>
-		<dc:description id="description">A medical process that makes black people look white revolutionizes American society.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A medical process that makes black people look white revolutionizes American society.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;After Dr. Junius Crookman invents the “Black-No-More” process to make black people look white through a process of “electrical nutrition and glandular control,” the United States of America is swept into social upheaval. Black Americans flock to Dr. Crookman’s hospitals, wishing to escape the confines of racial stigma and segregation, while white supremacist organizations scheme to uphold the existing socioeconomic order. One of the first patients to receive Dr. Crookman’s treatment is Max Disher, a black insurance agent who pines after a haughty white woman from Atlanta who rejects his request for a dance on account of his race.&lt;/p&gt;
 			&lt;p&gt;A picaresque novel, &lt;i&gt;Black No More&lt;/i&gt; follows the misadventures of Max Disher and the ways in which he takes advantage of his new appearance in an unstable political climate. A biting satire of both white supremacist and black civil rights organizations, it has been identified as one of the first works of Afrofuturism, an aesthetic movement which explores the cultures of the African diaspora in relation to advances in science and technology.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/68811</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/004431136</dc:source>
