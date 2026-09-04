@@ -49,13 +49,13 @@
 		<dc:subject id="subject-4">Picaresque literature</dc:subject>
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh85101920</meta>
-		<dc:subject id="subject-5">African Americans -- Fiction</dc:subject>
+		<dc:subject id="subject-5">African Americans--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">sh2007100196</meta>
-		<dc:subject id="subject-6">United States -- Race relations -- Fiction</dc:subject>
+		<dc:subject id="subject-6">United States--Race relations--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">Unknown</meta>
-		<dc:subject id="subject-7">Human skin color -- Fiction</dc:subject>
+		<dc:subject id="subject-7">Human skin color--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-7">LCSH</meta>
 		<meta property="term" refines="#subject-7">Unknown</meta>
 		<meta property="schema:genre">Satire</meta>
